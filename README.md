@@ -28,5 +28,4 @@ python hrv-autocorrelation/examples/demo.py
 - В каждом README описано, что изменено по сравнению с исходным учебным заданием
 
 ## Автор
-
-La_resp 
+E34-BAK
